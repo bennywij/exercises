@@ -1,4 +1,4 @@
-/**required: takehome.csv*****/
+/**required: csv with user-id, ts, test assignment, result*****/
 /*mungeing*/
 
 drop table mock_log

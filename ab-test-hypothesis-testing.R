@@ -1,4 +1,4 @@
-# takehome exercise
+# ab test hypo testing exercise
 # benny wijatno
 # Aug 9, 2013
 
